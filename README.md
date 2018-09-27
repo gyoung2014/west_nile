@@ -4,7 +4,7 @@ Predict the Probability when and where different species of mosquitoes will test
 
 ### Data Visualization
 
-### Data Processing
+### Data Pre-Processing
 
 * Missing value
 * Outliers
